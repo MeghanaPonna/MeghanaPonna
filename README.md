@@ -4,7 +4,6 @@
 Aspiring Full Stack Developer | MERN Stack Learner | Problem-Solving Enthusiast
 </p>
 
----
 
 ## 🌟 About Me
 
@@ -14,7 +13,6 @@ Aspiring Full Stack Developer | MERN Stack Learner | Problem-Solving Enthusiast
 - 🧠 Actively improving **Data Structures & Algorithms** and basic **System Design**
 - 🤝 Open to **internships, collaborations, hackathons, and open-source contributions**
 
----
 
 ## 🏅 Achievements & Activities
 
@@ -23,7 +21,7 @@ Aspiring Full Stack Developer | MERN Stack Learner | Problem-Solving Enthusiast
 - ✔️ Consistent learner with a focus on practical implementation
 <!-- You can add badges or certificates here later -->
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -31,32 +29,28 @@ Aspiring Full Stack Developer | MERN Stack Learner | Problem-Solving Enthusiast
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
 
 ### 🌐 Frontend Development  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
----
 
 ### 🧩 Backend Development  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
----
 
 ### 🗄️ Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
----
+
 
 ### 🔧 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
 
 ### 📚 Core Concepts  
 ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20&%20Algorithms-blue?style=flat-square)
@@ -71,13 +65,12 @@ Aspiring Full Stack Developer | MERN Stack Learner | Problem-Solving Enthusiast
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeghanaPonna&layout=compact" height="150"/>
 </p>
 
----
+
 
 ## ✨ Personal Motto
 
 > *“Consistency, curiosity, and continuous improvement lead to success.”*
 
----
 
 ### 🙏 Thank You for Visiting My Profile!
 ⭐ Feel free to explore my repositories and connect with me.
