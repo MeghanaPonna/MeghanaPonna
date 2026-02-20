@@ -28,43 +28,41 @@ Aspiring Full Stack Developer | MERN Stack Learner | Problem-Solving Enthusiast
 ## 🛠️ Technical Skills
 
 ### 👨‍💻 Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
 ### 🌐 Frontend Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
 
 ### 🧩 Backend Development  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 ---
 
 ### 🗄️ Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-### 🔧 Tools & Developer Workflow  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code)
+### 🔧 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 📚 Core Concepts  
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-02569B?style=for-the-badge)
-![OOPS](https://img.shields.io/badge/OOPS-4CAF50?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge)
-![System Design](https://img.shields.io/badge/Basic%20System%20Design-607D8B?style=for-the-badge)
----
+![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20&%20Algorithms-blue?style=flat-square)
+![OOPS](https://img.shields.io/badge/OOPS-Object%20Oriented%20Programming-green?style=flat-square)
+![REST](https://img.shields.io/badge/REST-APIs-orange?style=flat-square)
+![System%20Design](https://img.shields.io/badge/System%20Design-Basics-lightgrey?style=flat-square)
 
 ## 📊 GitHub Statistics
 
