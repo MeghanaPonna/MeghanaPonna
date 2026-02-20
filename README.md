@@ -58,11 +58,10 @@ Aspiring Full Stack Developer | MERN Stack Learner | Problem-Solving Enthusiast
 ![REST](https://img.shields.io/badge/REST-APIs-orange?style=flat-square)
 ![System%20Design](https://img.shields.io/badge/System%20Design-Basics-lightgrey?style=flat-square)
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeghanaPonna&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeghanaPonna&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MeghanaPonna&show_icons=true&theme=github_dark" />
 </p>
 
 
