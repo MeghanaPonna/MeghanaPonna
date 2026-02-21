@@ -61,10 +61,12 @@ Aspiring Full Stack Developer | MERN Stack Learner | Problem-Solving Enthusiast
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeghanaPonna&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MeghanaPonna&show_icons=true&theme=default" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeghanaPonna" />
+</p>
 
 ## ✨ Personal Motto
 
