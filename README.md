@@ -7,7 +7,7 @@ Aspiring Full Stack Developer | MERN Stack Learner | Problem-Solving Enthusiast
 
 ## 🌟 About Me
 
-- 🎓 Computer Science student with a strong interest in **Full Stack Web Development**
+-- 🎓 Computer Science student with a strong interest in **Full Stack Web Development**
 - 🔧 Currently learning and building projects using **MERN Stack & Backend Technologies**
 - 💡 Passionate about developing **scalable, real-world applications**
 - 🧠 Actively improving **Data Structures & Algorithms** and basic **System Design**
