@@ -68,7 +68,7 @@ Aspiring Full Stack Developer | MERN Stack Learner | Problem-Solving Enthusiast
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeghanaPonna" />
 </p>
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 <p align="left"> <a href="https://github.com/MeghanaPonna"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> <a href="https://linkedin.com/in/ponna-meghana-954146293"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:meghanaponna234@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/> </a> </p>
 
 ## ✨ Personal Motto
