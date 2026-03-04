@@ -1,31 +1,24 @@
 <h1 align="center">Hi 👋, I'm Meghana Ponna</h1>
 
 <p align="center">
-Full Stack Developer (MERN) | Backend Enthusiast | Problem Solver Enthusiast
+Aspiring Full Stack Developer | MERN Stack Learner | Problem-Solving Enthusiast
 </p>
 
 
 ## 🌟 About Me
 
-🎓 Computer Science student passionate about building scalable web applications and solving real-world problems through technology.
-🚀 Currently focused on:
-- - Full Stack Development (MERN Stack)
-- - Backend Engineering (Node.js, Express, APIs)
-- - Data Structures & Algorithms
-- - System Design Fundamentals
-
-💡 I enjoy building real-world applications, understanding how systems work internally, and continuously improving my problem-solving skills.
-
-📈 My goal is to become a strong software engineer capable of building production-grade applications.
+- 🎓 Computer Science student with a strong interest in **Full Stack Web Development**
+- 🔧 Currently learning and building projects using **MERN Stack & Backend Technologies**
+- 💡 Passionate about developing **scalable, real-world applications**
+- 🧠 Actively improving **Data Structures & Algorithms** and basic **System Design**
+- 🤝 Open to **internships, collaborations, hackathons, and open-source contributions**
 
 
 ## 🏅 Achievements & Activities
 
-✔ Built multiple frontend and full-stack projects
-✔ Developed hands-on experience with MERN Stack development
-✔ Implemented authentication systems and real-world backend APIs
-✔ Practicing Data Structures & Algorithms regularly
-✔ Experience with Git & GitHub for collaborative development
+- ✔️ Completed multiple frontend and backend mini-projects
+- ✔️ Hands-on experience with Git & GitHub version control
+- ✔️ Consistent learner with a focus on practical implementation
 <!-- You can add badges or certificates here later -->
 
 
@@ -75,7 +68,7 @@ Full Stack Developer (MERN) | Backend Enthusiast | Problem Solver Enthusiast
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeghanaPonna" />
 </p>
 
-## 🤝 Connect With Me
+🤝 Connect With Me
 <p align="left"> <a href="https://github.com/MeghanaPonna"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> <a href="https://linkedin.com/in/ponna-meghana-954146293"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:meghanaponna234@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/> </a> </p>
 
 ## ✨ Personal Motto
@@ -84,4 +77,4 @@ Full Stack Developer (MERN) | Backend Enthusiast | Problem Solver Enthusiast
 
 
 ### 🙏 Thank You for Visiting My Profile!
-⭐ Feel free to explore my repositories and connect with me.
+⭐ Feel free to explore my repositories and connect with me.     
