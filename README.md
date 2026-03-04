@@ -9,10 +9,10 @@ Full Stack Developer (MERN) | Backend Enthusiast | Problem Solver Enthusiast
 
 🎓 Computer Science student passionate about building scalable web applications and solving real-world problems through technology.
 🚀 Currently focused on:
-- Full Stack Development (MERN Stack)
-- Backend Engineering (Node.js, Express, APIs)
-- Data Structures & Algorithms
-- System Design Fundamentals
+- - Full Stack Development (MERN Stack)
+- - Backend Engineering (Node.js, Express, APIs)
+- - Data Structures & Algorithms
+- - System Design Fundamentals
 
 💡 I enjoy building real-world applications, understanding how systems work internally, and continuously improving my problem-solving skills.
 
