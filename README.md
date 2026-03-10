@@ -11,6 +11,7 @@ Aspiring Full Stack Developer | MERN Stack Learner | Problem-Solving Enthusiast
 - 🔧 Currently learning and building projects using **MERN Stack & Backend Technologies**
 - 💡 Passionate about developing **scalable, real-world applications**
 - 🧠 Actively improving **Data Structures & Algorithms** and basic **System Design**
+- 🌐 Portfolio: https://meghana-portfolio-psi.vercel.app/
 - 🤝 Open to **internships, collaborations, hackathons, and open-source contributions**
 
 
@@ -69,7 +70,30 @@ Aspiring Full Stack Developer | MERN Stack Learner | Problem-Solving Enthusiast
 </p>
 
 ## 🤝 Connect With Me
-<p align="left"> <a href="https://github.com/MeghanaPonna"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> <a href="https://linkedin.com/in/ponna-meghana-954146293"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:meghanaponna234@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/> </a> </p>
+
+<p align="left">
+
+<a href="https://github.com/MeghanaPonna">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/ponna-meghana-954146293">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:meghanaponna234@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://meghana-portfolio-psi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="file:///C:/Users/user/Downloads/23211A12D2-P.Meghana.pdf">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive"/>
+</a>
+
+</p>
 
 ## ✨ Personal Motto
 
