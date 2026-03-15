@@ -16,7 +16,7 @@ I am a **Computer Science student and Full Stack Developer** with a strong focus
 
 My core expertise lies in the **MERN stack (MongoDB, Express.js, React, Node.js)** where I design and develop complete systems — from **backend APIs, authentication systems, and database architecture to responsive and performant user interfaces**.
 
-I enjoy building **real-world applications that solve meaningful problems**. My work includes projects such as a **movie ticket booking platform with seat management and payment integration**, a **secure authentication system implementing JWT and OTP-based verification**, and **machine learning applications** like spam detection and churn prediction.
+I enjoy building **real-world applications that solve meaningful problems**.
 
 Alongside development, I continuously strengthen my knowledge in **Data Structures & Algorithms, backend architecture, API design, and system design fundamentals**.
 
@@ -38,40 +38,54 @@ https://meghana-portfolio-psi.vercel.app/
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠 Technical Skills
 
-### 👨‍💻 Programming Languages  
+## Programming Languages
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+---
 
-### 🌐 Frontend Development  
+## Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
+---
 
-### 🧩 Backend Development  
+## Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-API-orange?style=flat-square)
 
+---
 
-### 🗄️ Database  
+## Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
+---
 
+## Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Applications-blue?style=flat-square)
 
-### 🔧 Tools & Platforms  
+---
+
+## Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat-square&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-Deployment-black?style=flat-square&logo=vercel)
 
+---
 
-### 📚 Core Concepts  
-![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20&%20Algorithms-blue?style=flat-square)
-![OOPS](https://img.shields.io/badge/OOPS-Object%20Oriented%20Programming-green?style=flat-square)
-![REST](https://img.shields.io/badge/REST-APIs-orange?style=flat-square)
-![System%20Design](https://img.shields.io/badge/System%20Design-Basics-lightgrey?style=flat-square)
+## Computer Science Fundamentals
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=flat-square)
+![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-green?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-Basics-lightgrey?style=flat-square)
+![API Design](https://img.shields.io/badge/API%20Design-REST-orange?style=flat-square)
+
 
 ## 📊 GitHub Stats
 
