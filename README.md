@@ -1,28 +1,42 @@
-<h1 align="center">Hi 👋, I'm Meghana Ponna</h1>
+[<h1 align="center">Hi 👋, I'm Meghana Ponna</h1>
 
 <p align="center">
-Aspiring Full Stack Developer | MERN Stack Learner | Problem-Solving Enthusiast
+Full Stack Developer | MERN Stack | Backend Systems | Machine Learning Enthusiast
 </p>
 
+<p align="center">
+Building scalable web applications, secure backend systems, and intelligent data-driven solutions.
+</p>
 
-## 🌟 About Me
+---
 
-- 🎓 Computer Science student with a strong interest in **Full Stack Web Development**
-- 🔧 Currently learning and building projects using **MERN Stack & Backend Technologies**
-- 💡 Passionate about developing **scalable, real-world applications**
-- 🧠 Actively improving **Data Structures & Algorithms** and basic **System Design**
-- 🌐 Portfolio: https://meghana-portfolio-psi.vercel.app/
-- 🤝 Open to **internships, collaborations, hackathons, and open-source contributions**
+# 🌟 About Me
 
+I am a **Computer Science student and Full Stack Developer** with a strong focus on building scalable, reliable, and user-centric web applications.
 
-## 🏅 Achievements & Activities
+My core expertise lies in the **MERN stack (MongoDB, Express.js, React, Node.js)** where I design and develop complete systems — from **backend APIs, authentication systems, and database architecture to responsive and performant user interfaces**.
 
-- ✔️ Completed multiple frontend and backend mini-projects
-- ✔️ Hands-on experience with Git & GitHub version control
-- ✔️ Consistent learner with a focus on practical implementation
-<!-- You can add badges or certificates here later -->
+I enjoy building **real-world applications that solve meaningful problems**. My work includes projects such as a **movie ticket booking platform with seat management and payment integration**, a **secure authentication system implementing JWT and OTP-based verification**, and **machine learning applications** like spam detection and churn prediction.
 
+Alongside development, I continuously strengthen my knowledge in **Data Structures & Algorithms, backend architecture, API design, and system design fundamentals**.
 
+I am passionate about writing **clean, maintainable code**, designing **scalable systems**, and continuously learning modern technologies that enable building impactful products.
+
+🌐 Portfolio  
+https://meghana-portfolio-psi.vercel.app/
+
+🤝 Open to **internships, collaborations, hackathons, and open-source contributions**
+
+---
+
+# 🏅 Achievements & Activities
+
+✔️ Built multiple **full-stack and machine learning applications**  
+✔️ Hands-on experience with **Git, GitHub, and collaborative development workflows**  
+✔️ Developed projects involving **authentication, payments, and API architecture**  
+✔️ Completed **Joy of Computing in Python (Elite – 70%)**
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -89,10 +103,6 @@ Aspiring Full Stack Developer | MERN Stack Learner | Problem-Solving Enthusiast
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="file:///C:/Users/user/Downloads/23211A12D2-P.Meghana.pdf">
-<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive"/>
-</a>
-
 </p>
 
 ## ✨ Personal Motto
@@ -102,3 +112,4 @@ Aspiring Full Stack Developer | MERN Stack Learner | Problem-Solving Enthusiast
 
 ### 🙏 Thank You for Visiting My Profile!
 ⭐ Feel free to explore my repositories and connect with me.     
+](https://cinebook-zeta.vercel.app/)
