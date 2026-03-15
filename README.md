@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Meghana Ponna</h1>
+<h1 align="center">Hi 👋, I'm Meghana Ponna</h1>
 
 <p align="center">
 Full Stack Developer | MERN Stack | Backend Systems | Machine Learning Enthusiast
